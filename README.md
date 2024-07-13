@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hridaysarder" target="blank"><img src="https://img.shields.io/twitter/follow/hridaysarder?logo=twitter&style=for-the-badge" alt="hridaysarder" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++**
+- 🌱 I’m currently learning **Data Structure**
 
 - 💬 Ask me about **Web Development**
 
